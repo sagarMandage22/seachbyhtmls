@@ -1,0 +1,47 @@
+tabel{
+    border-collapse: collapse;
+    width:50%;
+}
+td,th{
+    border: 1px solid #ddd;
+    text-align: left;
+    padding: 8px;
+    width: fit-content;
+    columns: auto;
+    color:black;
+    font-weight: bold;
+}
+tr:nth-child(even){
+    background-color: lightblue
+
+}
+.lgb-cg{
+    background-color: rgba(132, 139, 138, 0.897);
+    border: 2px ;
+    font-size: medium;
+
+}
+.slddd{
+    font-size:medium;
+    font-weight: bold;
+    font-style: inherit;
+    font-display: inherit;
+    list-style-position: inherit;
+    color: rgb(36, 9, 189);
+}
+.slddddd{
+    background-color: rgba(239, 245, 245, 0.164);
+    color: rgba(63, 211, 34, 0.527);
+    text-align:center;
+    font-size: medium;
+    font-weight: bolder;
+    font-stretch: ultra-condensed;
+}
+.asasas{
+    
+    color: black;
+    font-weight: bolder;
+    font-style: inherit;
+    border: cornflowerblue;
+    
+}
